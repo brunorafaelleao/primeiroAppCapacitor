@@ -1,0 +1,10 @@
+{
+  "appId": "com.brunodev.listacompras",
+  "appName": "lista-compras",
+  "webDir": "dist",
+  "plugins": {
+    "SplashScreen": {
+      "launchAutoHide": false
+    }
+  }
+}
